@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/ubicacion.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/productos.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/controllers/loginController.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/layout/header.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/sugerencias.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/reclamos.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/clientes.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/models/producto.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/models/usuario.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/videos.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/layout/footer.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/controllers/detalleVenta.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/pdf_ventas.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/models/venta.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/index.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/ventas.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/models/cliente.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/logout.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/views/Reportes.php</file>
+            <file>file:/C:/xampp/htdocs/ferreteria_comas/config/conexion.php</file>
+        </group>
+    </open-files>
+</project-private>

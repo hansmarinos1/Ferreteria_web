@@ -1,0 +1,35 @@
+Instrucciones rápidas – Sistema Ferretería Comas
+
+Importar la base de datos
+
+-Abrir phpMyAdmin.
+
+-Importar el archivo .sql de la base de datos.
+
+-Verificar la tabla usuarios y sus logins.
+
+Acceder al sistema
+
+-Abrir el navegador e ir a la página del sistema.
+
+-Ingresar usuario y contraseña.
+
+-Presionar Ingresar.
+
+Navegar por el sistema
+
+-Dashboard: Resumen de estadísticas.
+
+-Productos: Listar, agregar y editar productos.
+
+-Clientes: Listar, agregar y editar clientes.
+
+-Reclamaciones / Sugerencias: Ver mensajes de clientes.
+
+-Ubicación: Información de la tienda.
+
+-Videos: Acceder a material multimedia.
+
+Cerrar sesión
+
+-Presionar Salir en el menú al terminar.
